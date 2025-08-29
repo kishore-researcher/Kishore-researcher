@@ -40,11 +40,8 @@ I research to question today and imagine tomorrow."*
 - 🌍 Research GitHub: [This Profile]  
 - 💻 Development GitHub: [Link to your dev account]  
 - ✉️ Reach out: [Your email or placeholder]
-  
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishore-researcher&show_icons=true&theme=radical)
 
-https://custom-icon-badges.herokuapp.com/badge/book-000000?style=for-the-badge&logo=book&logoColor=white
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kishore-researcher&theme=vue
+![Kishore's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishore-researcher&theme=github)
 <!--
 **kishore-researcher/Kishore-researcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
