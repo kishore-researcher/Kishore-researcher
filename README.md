@@ -41,7 +41,7 @@ I research to question today and imagine tomorrow."*
 - 💻 Development GitHub: [Link to your dev account]  
 - ✉️ Reach out: [Your email or placeholder]
 
-
+https://custom-icon-badges.herokuapp.com/badge/book-000000?style=for-the-badge&logo=book&logoColor=white
 http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kishore-researcher&theme=vue
 <!--
 **kishore-researcher/Kishore-researcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
