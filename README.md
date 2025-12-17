@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kishore  
 
-🚀 **Independent Researcher** | Exploring the intersections of **AI, Quantum Computing, and Society**  
+🚀 **Independent Researcher** | Exploring the intersections of **AI, Quantum Computing, Low-level and Society**  
 
 This GitHub profile is dedicated to my **research-driven projects, papers, and experimental code**.  
 Unlike my development account, here I focus on **academic exploration** and **futuristic ideas**.  
@@ -11,7 +11,8 @@ Unlike my development account, here I focus on **academic exploration** and **fu
 - **Artificial Intelligence & Society** – AI’s impact on labor, capitalism, and decentralization  
 - **Quantum Computing** – Quantum algorithms, optimization, and simulation  
 - **Political Economy of Technology** – How digital systems reshape global power  
-- **Ethics & Future Studies** – Responsible and sustainable technological development  
+- **Ethics & Future Studies** – Responsible and sustainable technological development
+- **Low-level-mastery** - How computer saw the program and memory
 
 ---
 
@@ -38,21 +39,9 @@ I research to question today and imagine tomorrow."*
 
 ## 📬 Connect  
 - 🌍 Research GitHub: [This Profile]  
-- 💻 Development GitHub: [Link to your dev account]  
-- ✉️ Reach out: [Your email or placeholder]
+- 💻 Development GitHub: [https://github.com/Kishoresweety]  
+- ✉️ Reach out: [kishoresakthi1017@gmail.com]
 
 ![Kishore's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishore-researcher&theme=github)
 <!--
 **kishore-researcher/Kishore-researcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
